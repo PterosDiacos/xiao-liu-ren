@@ -127,7 +127,8 @@ RURAL_DAY_NAMES = [
     'Lemon', 'Teasel', 'Buckthorn', 'Mexican marigold', 'Harvesting basket',
     'Wild rose', 'Hazelnut', 'Hops', 'Sorghum', 'Crayfish',
     'Bitter orange', 'Goldenrod', 'Maize', 'Sweet chestnut', 'Pack basket',
-    'La Fête de la Vertu (virtue)', 'La Fête du Génie (talent)', 'La Fête du Travail (labour)', "La Fête de l'Opinion (convictions)", 'La Fête des Récompenses (honors)',
+    'La Fête de la Vertu (virtue)', 'La Fête du Génie (talent)', 'La Fête du Travail (labour)', 
+    "La Fête de l'Opinion (convictions)", 'La Fête des Récompenses (honors)',
     'La Fête de la Révolution'
 ]
 
